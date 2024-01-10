@@ -1,0 +1,11 @@
+# Ignore composer dependencies
+/vendor/
+
+# Ignore node dependencies
+/node_modules/
+
+# Ignore PHPStorm files
+.idea/
+
+# Ignore any MySQL dump files
+/path/to/mysql/dump.sql
